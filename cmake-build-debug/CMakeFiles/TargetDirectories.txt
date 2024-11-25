@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/TASK 3 Simple Banking System/cmake-build-debug/CMakeFiles/TASK_3_Simple_Banking_System.dir
+C:/Users/pc/CLionProjects/TASK 3 Simple Banking System/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/TASK 3 Simple Banking System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
